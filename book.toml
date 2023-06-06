@@ -1,0 +1,15 @@
+[book]
+authors = ["secondl1ght"]
+language = "en"
+multilingual = false
+src = "src"
+title = "BTC Map Wiki"
+description = "Easily find places to spend sats anywhere on the planet."
+
+[output.html]
+default-theme = "light"
+preferred-dark-theme = "navy"
+git-repository-url = "https://github.com/teambtcmap/btcmap-wiki"
+edit-url-template = "https://github.com/teambtcmap/btcmap-wiki/edit/master/{path}"
+site-url = "https://wiki.btcmap.org"
+cname = "wiki.btcmap.org"
