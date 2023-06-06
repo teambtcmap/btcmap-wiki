@@ -1,6 +1,6 @@
 # BTC Map Wiki
 
-Created with [mdBook](https://github.com/rust-lang/mdBook).
+Created with [mdBook](https://github.com/rust-lang/mdBook)
 
 ## editing a page
 
