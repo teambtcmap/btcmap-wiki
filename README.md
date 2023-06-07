@@ -10,6 +10,6 @@ Page edits can be made by making changes to the Markdown file in the `src` direc
 
 1. `git clone` the repo and `cd` into the directory
 2. run `yarn` to install the packages
-3. `yarn serve` will open the app on `localhost:3000`
+3. `yarn dev` will open the app on `localhost:3000`
 
 ![Untitled](https://user-images.githubusercontent.com/85003930/194117128-2f96bafd-2379-407a-a584-6c03396a42cc.png)

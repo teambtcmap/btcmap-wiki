@@ -3,7 +3,7 @@
   "version": "1.0.0",
   "private": true,
   "scripts": {
-    "serve": "./mdbook serve",
+    "dev": "./mdbook serve",
     "build": "./mdbook build",
     "lint": "prettier --check .",
     "format": "prettier --write ."
