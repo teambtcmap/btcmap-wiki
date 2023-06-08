@@ -1,5 +1,7 @@
 # BTC Map Wiki
 
+[![Netlify Status](https://api.netlify.com/api/v1/badges/ad0aeac1-48c2-46ae-b117-5d350d6362ef/deploy-status)](https://app.netlify.com/sites/btcmap-wiki/deploys)
+
 Created with [mdBook](https://github.com/rust-lang/mdBook)
 
 ## editing a page
