@@ -75,4 +75,4 @@ Community organizations with a medium or large amount of local bitcoin communiti
 ### Notes
 
 - GeoJSON can be created by following this [guide](../general/geojson-areas.html) or by using another method.
-- You have the option to self-host the community icon images and provide a URL. The preferred method is to provide a zip file of all the assets and naming each file using the community `id` (webp, png, or jpg format).
+- For community icon images please provide a zip file of all the assets and naming each file using the community `id` (webp, png, svg, or jpg format).
