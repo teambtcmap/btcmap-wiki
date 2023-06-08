@@ -4,7 +4,7 @@ Created with [mdBook](https://github.com/rust-lang/mdBook)
 
 ## editing a page
 
-Page edits can be made by making changes to the Markdown file in the `src` directory. You can then open a Pull Request to have your updates merged.
+Page edits can be made by making changes to the Markdown file in the `src` directory. You can then open a Pull Request to have your updates merged. You can also begin editing by simply clicking the **edit** button in the top right on any page.
 
 ## running locally
 
