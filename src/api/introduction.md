@@ -1,5 +1,7 @@
 # Introduction
 
+Our API endpoints can be accessed at `https://api.btcmap.org/v2/`.
+
 ## Endpoints
 
 - `/elements`
