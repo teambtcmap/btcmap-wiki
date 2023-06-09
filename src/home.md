@@ -12,4 +12,4 @@ Check out our [tagging instructions](general/tagging-instructions.html) for deta
 
 Our API endpoints can be accessed at `https://api.btcmap.org/v2/`.
 
-This documentation is organized into two sections. **General** for everything not developer related, and **API** which is meant to help you get started using our API and begin integrating that data within your own apps.
+This documentation is organized into two sections. **General** for everything not developer related, and **API** which is meant to help you get started using our API and begin integrating bitcoin mapping data within your own apps.
