@@ -17,3 +17,12 @@ Bitcoin mapping communities maintain their local datasets and strive to have the
 - Maintain the merchants accepting bitcoin in your area. This means periodically [verifying](verifying-locations.html) merchant details and making sure they are up-to-date on OpenStreetMap. See [verified tags](tagging-instructions.html#verified-tags---more-information) and the [map legend](map-legend.html#verified) for more details.
 
 - Help [onboard](onboarding-merchants.html) new merchants to bitcoin and [add them](tagging-instructions.html) to the map.
+
+## Community Icon Specs
+
+- Preferred format is `svg` but `webp`, `png` or `jpg` will also be accepted.
+- The image should be square.
+- The image should have a background fill color (no transparent backgrounds).
+- Keep file sizes small.
+- Try to include some padding so that your icon looks good when the corners are rounded by apps.
+- The icon may be displayed on small screens so try to make it as readable as possible.
