@@ -5,6 +5,7 @@
 - [BTC Map Stickers!](https://github.com/teambtcmap/btcmap-general/tree/main/design/stickers)
 - [Bitcoin for Local Business](https://bitcoinforlocalbusiness.com/)
 - [Bridge 2 Bitcoin](https://bridge2bitcoin.com/) - UK-focused.
+- [Bitcoin Rocks! Business Kit](https://bitcoin.rocks/business/kit)
 
 **Hints and Tips**
 
