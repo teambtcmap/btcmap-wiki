@@ -7,6 +7,8 @@
 1. API
 2. Embed
 3. Payment buttons
+4. Mapping
+5. A new integration?!
 
 ### Projects
 
@@ -20,7 +22,7 @@
 - [BitLocal](https://www.bitlocal.app/)
 - [BTC Map Nostr Bot](https://github.com/BcnBitcoinOnly/btcmap-bot)
 - [Fedi](https://www.fedi.xyz/)
-- [Decouvre Bitcoin](https://decouvrebitcoin.fr/ambassadeurs/)
+- [Decouvre Bitcoin](https://decouvrebitcoin.fr/)
 - [Osmo](https://www.osmowallet.com/)
 - [Bitcoin Rocks!](https://bitcoin.rocks/)
 
