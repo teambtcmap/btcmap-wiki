@@ -21,6 +21,8 @@
 - [BTC Map Nostr Bot](https://github.com/BcnBitcoinOnly/btcmap-bot)
 - [Fedi](https://www.fedi.xyz/)
 - [Decouvre Bitcoin](https://decouvrebitcoin.fr/ambassadeurs/)
+- [Osmo](https://www.osmowallet.com/)
+- [Bitcoin Rocks!](https://bitcoin.rocks/)
 
 ### Featured on
 
