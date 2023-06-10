@@ -6,6 +6,10 @@
 - [Bitcoin for Local Business](https://bitcoinforlocalbusiness.com/)
 - [Bridge 2 Bitcoin](https://bridge2bitcoin.com/) - UK-focused.
 - [Bitcoin Rocks! Business Kit](https://bitcoin.rocks/business/kit)
+- [Bitcoin Rocks! Accounting Guide](https://bitcoin.rocks/business/accounting)
+- [Bitcoin Rocks! Business FAQ](https://bitcoin.rocks/business/faq)
+- [Bitcoin Rocks! Business Wallet Resource](https://bitcoin.rocks/business/wallets)
+- [Bitcoin Rocks! Stickers](https://bitcoin.rocks/business/stickers)
 
 **Hints and Tips**
 
