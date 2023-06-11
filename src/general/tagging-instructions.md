@@ -102,7 +102,7 @@ You should verify all the present tags (if possible) when you are adding bitcoin
 
 We still search for these legacy tags for general display in the apps, but we won't be specific on the payment types supported. You should really remove them when updating with the current tagging rules.
 
-Here is the [full list](https://data.btcmap.org/legacy-nodes.html) of the legacy places and you are encouraged to verify them. Clicking on any place in that list will open the [OSM iD editor](https://learnosm.org/en/beginner/id-editor/#the-id-editor). If the place still exists, modify it using the guidance above. If the place doesn't exist, you can remove it from OSM. In a case when a place still exists but no longer accepts bitcoins, simply remove the `payment:bitcoin=yes` tag.
+Here is the [full list](https://overpass-turbo.eu/s/1vWt) of the legacy places and you are encouraged to verify them. Clicking on any place in that list will open the [OSM iD editor](https://learnosm.org/en/beginner/id-editor/#the-id-editor). If the place still exists, modify it using the guidance above. If the place doesn't exist, you can remove it from OSM. In a case when a place still exists but no longer accepts bitcoins, simply remove the `payment:bitcoin=yes` tag.
 
 ### Other OpenStreetMap tags
 
