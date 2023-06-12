@@ -12,7 +12,7 @@
 
 ## Presentations 📹
 
-- [BTC Prague 23 - Expo Stage](https://wiki.btcmap.org/files/BTCPrague-BTCMap.pdf)
+- [BTC Prague 23 - Expo Stage](https://github.com/teambtcmap/btcmap-general/blob/main/events/BTCPrague-BTCMap.pdf)
 - [Adopting Bitcoin Day 2 - Solutions Stage](https://youtu.be/BzdKSgT17pQ)
 - [Legends Of Lightning: Global Adoption Finals 🧡](https://youtu.be/fCPf7m8f_9U?t=1h41m4s) (BTC Map content starts at 1:41:04)
 
