@@ -25,6 +25,7 @@
 - [Decouvre Bitcoin](https://decouvrebitcoin.fr/)
 - [Osmo](https://www.osmowallet.com/)
 - [Bitcoin Rocks!](https://bitcoin.rocks/)
+- [lipa](https://lipa.swiss/)
 
 ### Featured on
 
