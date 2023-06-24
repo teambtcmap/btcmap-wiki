@@ -17,6 +17,7 @@
 - [Legends Of Lightning: Global Adoption Finals 🧡](https://youtu.be/fCPf7m8f_9U?t=1h41m4s) (BTC Map content starts at 1:41:04)
 - [BOLT.FUN Legends of Lightning Pitch - Nathan Day](https://www.canva.com/design/DAFSsnNBZB0/zSwnN3krgzwonsq0K127xQ/view)
 - [BTC Prague 23 - Expo Stage](https://github.com/teambtcmap/btcmap-general/blob/main/events/BTCPrague-BTCMap.pdf)
+- [Nathan Day - BTC Map: SPEDN is the new HODL (BTC Prague 2023)](https://youtu.be/VO3pdA9P5As)
 
 ## Videos 📹
 
