@@ -4,10 +4,10 @@
 
 ### Ways to integrate
 
-1. API
-2. Embed
-3. Payment buttons
-4. Mapping
+1. [API](../api/introduction.html)
+2. [Embed](embedding.html)
+3. Payment buttons ([contact us](mailto:hello@btcmap.org))
+4. [Mapping](tagging-instructions.html)
 5. A new integration?!
 
 ### Projects

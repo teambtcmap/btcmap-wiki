@@ -9,6 +9,7 @@
 - [Communities](general/communities.md)
 - [Content](general/content.md)
 - [Creating GeoJSON Areas](general/geojson-areas.md)
+- [Embedding](general/embedding.md)
 - [FAQ](general/faq.md)
 - [Integrations](general/integrations.md)
 - [Lightning Tips](general/lightning-tips.md)
