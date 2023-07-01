@@ -37,6 +37,8 @@
 - [Lightning Network Empowers Bitcoin To Become The Currency Of The Future - Forbes](https://www.forbes.com/sites/rogerhuang/2022/12/23/lightning-network-empowers-bitcoin-to-become-the-currency-of-the-future/?sh=4090bc55141d)
 - [BTC Map: mappare le attività che accettano pagamenti in bitcoin - Bitcoin for Freedom](https://bitcoinforfreedom.xyz/2023/01/06/btc-map-mappare-le-attivita-che-accettano-pagamenti-in-bitcoin/)
 - [Bitcoin’s Lightning Network: What It Is And How It Works - Forbes](https://www.forbes.com/sites/digital-assets/2023/04/27/bitcoins-lightning-network-what-it-is-and-how-it-works/?sh=574e0743509c)
+- [ORANGE PILLING YOUR BARBER OR STYLIST: A SHORT CUT TO HYPERBITCOINIZATION - Bitcoin Magazine](https://bitcoinmagazine.com/culture/share-bitcoin-with-your-barber-or-stylist)
+- [The Adoption Dilemma - CARL ₿ MENGER](https://carlbmenger.substack.com/p/the-adoption-dilemma)
 
 ## Songs 🎶
 
