@@ -36,6 +36,8 @@
 
 [Spam](https://wiki.openstreetmap.org/wiki/Spam)
 
+[taginfo](https://taginfo.openstreetmap.org/)
+
 [Verifiability](https://wiki.openstreetmap.org/wiki/Verifiability)
 
 ### Wiki
