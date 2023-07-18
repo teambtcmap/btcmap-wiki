@@ -22,7 +22,6 @@
 
 There are a number of merchant solutions to help vendors take payment in bitcoin and optionally convert to local fiat:
 
-- BTC Map! We have a web-based PoS (based on [LNBits](https://lnbits.com)) that works on many different devices.
 - [Coinos](https://coinos.io/)
 - [Wallet of Satoshi](https://www.walletofsatoshi.com/)
 - [Swiss Bitcoin Pay](https://swiss-bitcoin-pay.ch/)
