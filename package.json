@@ -9,7 +9,7 @@
     "format": "prettier --write ."
   },
   "devDependencies": {
-    "prettier": "2.8.8"
+    "prettier": "3.0.3"
   },
   "description": "Easily find places to spend sats anywhere on the planet.",
   "repository": "https://github.com/teambtcmap/btcmap-wiki",
