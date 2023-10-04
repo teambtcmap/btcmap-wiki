@@ -22,6 +22,7 @@
 ## Videos 📹
 
 - [How to create an entry on OpenStreetMap - Nathan Day](https://rumble.com/v1ldybp-how-to-create-an-entry-on-openstreetmap..html)
+- [Overview of BTC Map and OpenStreetMap in Spanish 🇪🇸 - Cripto Panas](https://www.youtube.com/watch?v=oD6plqA64Rw)
 - [Trader University - Can You Actually Buy Anything With Bitcoin?](https://youtu.be/WfCLHbt6vtU)
 - [Bill on Bitcoin Island - Shadowy Supertagger](https://drive.google.com/file/d/178Md7XS4Sk_R0xLYRftEf9C9-346jjZe/view)
 - [WHY ARE WE BULLISH? HodlSolo, James Dewar, Christopher Gordon, Peter Rounce](https://youtu.be/Lco16m3tWP8?t=1h20m) (BTC Map content starts at 1:20:00)
