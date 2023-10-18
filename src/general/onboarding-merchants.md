@@ -30,5 +30,6 @@ There are a number of merchant solutions to help vendors take payment in bitcoin
 - [Pouch](https://pouch.ph/)
 - [Galoy](https://galoy.io/)
 - [Strike](https://strike.me/)
+- [Confirmo](http://confirmo.net)
 
 If you know of any other easy to use point-of-sale applications for new merchants please let us know!
