@@ -18,6 +18,7 @@
 - [BOLT.FUN Legends of Lightning Pitch - Nathan Day](https://www.canva.com/design/DAFSsnNBZB0/zSwnN3krgzwonsq0K127xQ/view)
 - [BTC Prague 23 - Expo Stage](https://github.com/teambtcmap/btcmap-general/blob/main/events/BTCPrague-BTCMap.pdf)
 - [Nathan Day - BTC Map: SPEDN is the new HODL (BTC Prague 2023)](https://youtu.be/VO3pdA9P5As)
+- [Nathan Day - State of Merchant Adoption (Adopting Bitcoin 2023)](https://www.youtube.com/watch?v=4Qh7HIumiUo&t=60s)
 
 ## Videos 📹
 
