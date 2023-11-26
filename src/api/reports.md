@@ -40,4 +40,4 @@ The `reports` endpoint contains an array of report objects. Each report covers a
 - Return only one report using the ID:
   [https://api.btcmap.org/v2/reports/28](https://api.btcmap.org/v2/reports/28)
 
-- Return only reports updated after a set date: [https://api.btcmap.org/v2/reports?updated_since=2022-10-11](https://api.btcmap.org/v2/reports?updated_since=2022-10-11)
+- Return only reports updated after a set date: [https://api.btcmap.org/v2/reports?updated_since=2022-10-11T00:00:00.000Z](https://api.btcmap.org/v2/reports?updated_since=2022-10-11T00:00:00.000Z)

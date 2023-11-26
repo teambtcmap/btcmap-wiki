@@ -43,7 +43,7 @@ Polygon data can be found for areas in the [GeoJSON](https://geojson.org/) forma
 - Return only one area using the ID:
   [https://api.btcmap.org/v2/areas/bitcoin-island-philippines](https://api.btcmap.org/v2/areas/bitcoin-island-philippines)
 
-- Return only areas updated after a set date: [https://api.btcmap.org/v2/areas?updated_since=2022-10-11](https://api.btcmap.org/v2/areas?updated_since=2022-10-11)
+- Return only areas updated after a set date: [https://api.btcmap.org/v2/areas?updated_since=2022-10-11T00:00:00.000Z](https://api.btcmap.org/v2/areas?updated_since=2022-10-11T00:00:00.000Z)
 
 ## Communities
 

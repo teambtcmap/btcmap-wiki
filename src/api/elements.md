@@ -71,4 +71,4 @@ The `osm_json` key contains all of the information from OSM. The top level `tags
 - Return only one element using the ID:
   [https://api.btcmap.org/v2/elements/node:9985802993](https://api.btcmap.org/v2/elements/node:9985802993)
 
-- Return only elements updated after a set date: [https://api.btcmap.org/v2/elements?updated_since=2022-10-11](https://api.btcmap.org/v2/elements?updated_since=2022-10-11)
+- Return only elements updated after a set date: [https://api.btcmap.org/v2/elements?updated_since=2022-10-11T00:00:00.000Z](https://api.btcmap.org/v2/elements?updated_since=2022-10-11T00:00:00.000Z)

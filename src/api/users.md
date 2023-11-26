@@ -60,4 +60,4 @@ The `osm_json` key contains all of the information from OSM.
 - Return only one user using the ID:
   [https://api.btcmap.org/v2/users/16990757](https://api.btcmap.org/v2/users/16990757)
 
-- Return only users updated after a set date: [https://api.btcmap.org/v2/users?updated_since=2022-10-11](https://api.btcmap.org/v2/users?updated_since=2022-10-11)
+- Return only users updated after a set date: [https://api.btcmap.org/v2/users?updated_since=2022-10-11T00:00:00.000Z](https://api.btcmap.org/v2/users?updated_since=2022-10-11T00:00:00.000Z)

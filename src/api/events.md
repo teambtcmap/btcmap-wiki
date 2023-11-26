@@ -36,4 +36,4 @@ Only events with a `deleted_at` value of an empty string `""` are valid events. 
 - Return only one event using the ID:
   [https://api.btcmap.org/v2/events/500](https://api.btcmap.org/v2/events/500)
 
-- Return only events updated after a set date: [https://api.btcmap.org/v2/events?updated_since=2022-10-11](https://api.btcmap.org/v2/events?updated_since=2022-10-11)
+- Return only events updated after a set date: [https://api.btcmap.org/v2/events?updated_since=2022-10-11T00:00:00.000Z](https://api.btcmap.org/v2/events?updated_since=2022-10-11T00:00:00.000Z)
