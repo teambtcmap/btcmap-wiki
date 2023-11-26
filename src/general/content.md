@@ -18,10 +18,12 @@
 - [BOLT.FUN Legends of Lightning Pitch - Nathan Day](https://www.canva.com/design/DAFSsnNBZB0/zSwnN3krgzwonsq0K127xQ/view)
 - [BTC Prague 23 - Expo Stage](https://github.com/teambtcmap/btcmap-general/blob/main/events/BTCPrague-BTCMap.pdf)
 - [Nathan Day - BTC Map: SPEDN is the new HODL (BTC Prague 2023)](https://youtu.be/VO3pdA9P5As)
+- [Nathan Day - State of Merchant Adoption (Adopting Bitcoin 2023)](https://www.youtube.com/watch?v=4Qh7HIumiUo&t=60s)
 
 ## Videos 📹
 
 - [How to create an entry on OpenStreetMap - Nathan Day](https://rumble.com/v1ldybp-how-to-create-an-entry-on-openstreetmap..html)
+- [Overview of BTC Map and OpenStreetMap in Spanish 🇪🇸 - Cripto Panas](https://www.youtube.com/watch?v=oD6plqA64Rw)
 - [Trader University - Can You Actually Buy Anything With Bitcoin?](https://youtu.be/WfCLHbt6vtU)
 - [Bill on Bitcoin Island - Shadowy Supertagger](https://drive.google.com/file/d/178Md7XS4Sk_R0xLYRftEf9C9-346jjZe/view)
 - [WHY ARE WE BULLISH? HodlSolo, James Dewar, Christopher Gordon, Peter Rounce](https://youtu.be/Lco16m3tWP8?t=1h20m) (BTC Map content starts at 1:20:00)
