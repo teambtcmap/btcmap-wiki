@@ -27,27 +27,27 @@ For more information see this [article](https://developer.chrome.com/docs/privac
 
 ### If you would like the map the initialize on a specific location there are a couple more steps to complete
 
-#### Community area
-
-1. Add `?community=einundzwanzig-deutschland` to your `iframe` URL (replace `einundzwanzig-deutschland` with the ID of your community - this can be found in the URL when visiting your community page)
-
 #### General area
 
 1. Visit [btcmap.org/map](https://btcmap.org/map) and zoom the map to your desired location
 2. Copy the URL from your browser tab which contains geolocation data
 3. Add this URL to your `iframe` `src` attribute embed code
 
-#### Communities only
+#### Communities map
 
-1. Add `?communitiesOnly` to your `iframe` URL
+1. Use `https://btcmap.org/communities/map` for your `iframe` URL
 
-##### Language filter
+##### Community area
 
-1. Add `?communitiesOnly&language=es`
+1. Use `https://btcmap.org/communities/map?community=einundzwanzig-deutschland` for your `iframe` URL (replace `einundzwanzig-deutschland` with the ID of your community - this can be found in the URL when visiting your community page)
 
 ##### Organization filter
 
-1. Add `?communitiesOnly&organization=einundzwanzig`
+1. Use `https://btcmap.org/communities/map?organization=einundzwanzig`
+
+##### Language filter
+
+1. Use `https://btcmap.org/communities/map?language=es`
 
 ### If you would like to filter by payment method
 
