@@ -32,6 +32,7 @@
 - [How do you know who accepts #bitcoin in El Salvador? 👀 Try these two maps/apps!](https://youtube.com/shorts/VaaHTjBnIPA)
 - [Bitcoin Kabul Eden İşletmeleri Keşfetmek 👉🏻 BTC Map | Bitcoin Lifestyle #8](https://www.youtube.com/watch?v=SmCTeBRODSA)
 - [BTC Map : la map des bitcoiners](https://www.youtube.com/watch?v=cMJDdQx9jl8)
+- [Promociona tu negocio en BTCMap.org](https://www.youtube.com/watch?v=oD6plqA64Rw)
 
 ## Blogs / Articles 🖋️
 

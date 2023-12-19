@@ -26,6 +26,7 @@
 - [Osmo](https://www.osmowallet.com/)
 - [Bitcoin Rocks!](https://bitcoin.rocks/)
 - [lipa](https://lipa.swiss/)
+- [Spirit of Satoshi](https://www.spiritofsatoshi.ai/)
 
 ### Featured on
 
