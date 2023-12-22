@@ -11,7 +11,7 @@
 
 ## Data
 
-The `reports` endpoint contains an array of report objects. Each report covers a time period of 24 hours. The latest report is updated every 10 minutes and historical reports are immutable. Reports for the entire BTC Map dataset will have an `area_id` of an empty string `""`. [Area](areas.html) specific reports will have a value in this field.
+The `reports` endpoint contains an array of report objects. Each report covers a time period of 24 hours and historical reports are immutable. Reports for the entire BTC Map dataset will have an `area_id` of an empty string `""`. [Area](areas.html) specific reports will have a value in this field.
 
 ## Example
 
