@@ -42,6 +42,7 @@
 - [Bitcoin’s Lightning Network: What It Is And How It Works - Forbes](https://www.forbes.com/sites/digital-assets/2023/04/27/bitcoins-lightning-network-what-it-is-and-how-it-works/?sh=574e0743509c)
 - [ORANGE PILLING YOUR BARBER OR STYLIST: A SHORT CUT TO HYPERBITCOINIZATION - Bitcoin Magazine](https://bitcoinmagazine.com/culture/share-bitcoin-with-your-barber-or-stylist)
 - [The Adoption Dilemma - CARL ₿ MENGER](https://carlbmenger.substack.com/p/the-adoption-dilemma)
+- [In-person businesses accepting bitcoin nearly tripled in 2023 - The Block](https://www.theblock.co/post/270789/in-person-businesses-accepting-bitcoin-nearly-tripled-in-2023)
 
 ## Songs 🎶
 
