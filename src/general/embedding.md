@@ -61,6 +61,10 @@ The available options are:
 
 Example: `/map?onchain&lightning`
 
+### Selecting a default basemap
+
+To choose which basemap displays on page load, you can add the `basemap` param to your URL. The values correspond to the order they appear in the list on the map. For example, if you wanted to use the Terrain basemap you would add `basemap=7`. Like so: `/map?basemap=7`.
+
 That's it!
 
 Embedding is also possible on native mobile applications by utilizing the **WebView**.
