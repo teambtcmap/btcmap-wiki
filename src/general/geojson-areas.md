@@ -8,7 +8,7 @@ Originally, these areas were simple rectangles but we have now moved to polygons
 
 ### 1. Find your area
 
-Go to [geojson.easify.de](https://geojson.easify.de/) and search for your area (town, city, country).
+Go to [geojson.codingarena.top](https://geojson.codingarena.top/) and search for your area (town, city, country).
 
 ![image](../images/geojson-0.png)
 
