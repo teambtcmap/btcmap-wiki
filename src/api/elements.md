@@ -58,7 +58,10 @@ The `osm_json` key contains all of the information from OSM. The top level `tags
   },
   "tags": {
     "category": "other",
-    "icon:android": "content_cut"
+    "icon:android": "content_cut",
+    "issues": [
+      { "description": "Out of date", "severity": 3382, "type": "out_of_date" }
+    ]
   },
   "created_at": "2022-09-25T08:45:08Z",
   "updated_at": "2022-11-02T10:16:37Z",
