@@ -20,6 +20,7 @@
 - [Tagging Hashing Sites](general/hashing-sites.md)
 - [Tagging Instructions](general/tagging-instructions.md)
 - [Verifying Locations](general/verifying-locations.md)
+- [Outdated Locations](general/outdated.md)
 
 ---
 
