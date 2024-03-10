@@ -42,4 +42,4 @@ Every OSM change needs a short description. If you only changed the check date, 
 
 ## 4. You're Awesome!
 
-As you can see, verifying locations usually takes a couple of minutes, and everyone can do it. 
+As you can see, verifying locations usually takes a couple of minutes, and everyone can do it.
