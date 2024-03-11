@@ -45,3 +45,5 @@ _Note: There are other tags that can be used to verify a location including `sur
 ## 4. You're Awesome!
 
 As you can see, verifying locations usually takes a couple of minutes, and everyone can do it.
+
+_Note: If you visited the location and found that the merchant no longer accepts bitcoin, you would simply remove the [bitcoin-related tags](tagging-instructions#required-tags) from the merchant._
