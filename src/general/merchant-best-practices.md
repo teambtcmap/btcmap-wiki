@@ -1,6 +1,6 @@
 # Merchant Best Practices
 
-Here is a few tips and tricks which will help you boost your bitcoin sales.
+Here are a few tips and tricks which will help you boost your bitcoin sales.
 
 ## Get a "Bitcoin Accepted" Sticker
 
