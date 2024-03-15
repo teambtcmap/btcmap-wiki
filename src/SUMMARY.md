@@ -21,6 +21,7 @@
 - [Tagging Instructions](general/tagging-instructions.md)
 - [Verifying Locations](general/verifying-locations.md)
 - [Outdated Locations](general/outdated.md)
+- [Merchant Best Practices](general/merchant-best-practices.md)
 
 ---
 
