@@ -33,6 +33,9 @@
 - [Bitcoin Kabul Eden İşletmeleri Keşfetmek 👉🏻 BTC Map | Bitcoin Lifestyle #8](https://www.youtube.com/watch?v=SmCTeBRODSA)
 - [BTC Map : la map des bitcoiners](https://www.youtube.com/watch?v=cMJDdQx9jl8)
 - [Promociona tu negocio en BTCMap.org](https://www.youtube.com/watch?v=oD6plqA64Rw)
+- Short clips from an interview with Blockstream
+  -   [The end goal of BTC Map is DEATH](https://twitter.com/Blockstream/status/1788131934134272183)
+  -   [Opensource software, opensource data](https://twitter.com/Blockstream/status/1787746232217358379)
 
 ## Blogs / Articles 🖋️
 
