@@ -36,7 +36,7 @@ Add new or update existing locations directly as you see fit or help with the ba
 
 - [Verified locations ready for Shadowy Supertaggers](https://github.com/teambtcmap/btcmap-data/issues?q=is%3Aopen+is%3Aissue+label%3A%22verify-submission%22+-label%3Aassigned+no%3Aassignee) 📍
 
-If you're a serious tagger, please consider joining the [Shadowy Supertagger Team](https://github.com/orgs/teambtcmap/teams/shadowy-supertaggers) on GitHub so you can manage issues. We also have a Supertagger [Discord](https://discord.gg/f88bzkDA4u) channel.
+If you're a serious tagger, please consider joining the Shadowy Supertagger Team on GitHub so you can manage issues. We have a Supertagger [Discord](https://discord.gg/f88bzkDA4u) channel to get you onboarded.
 
 Please use the following guidance when editing locations:
 
