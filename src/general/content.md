@@ -19,6 +19,7 @@
 - [BTC Prague 23 - Expo Stage](https://github.com/teambtcmap/btcmap-general/blob/main/events/BTCPrague-BTCMap.pdf)
 - [Nathan Day - BTC Map: SPEDN is the new HODL (BTC Prague 2023)](https://youtu.be/VO3pdA9P5As)
 - [Nathan Day - State of Merchant Adoption (Adopting Bitcoin 2023)](https://www.youtube.com/watch?v=4Qh7HIumiUo&t=60s)
+- [Nathan Day - Adopting Bitcoin Arnhem 2024](https://www.youtube.com/live/-GTw6k1IkC0?t=4255s)
 
 ## Videos 📹
 
@@ -35,8 +36,8 @@
 - [Promociona tu negocio en BTCMap.org](https://www.youtube.com/watch?v=oD6plqA64Rw)
 - [Geyser Community Workshop Spaces](https://x.com/geyserfund/status/1790767504958332959) (BTC Map content starts at 02:07:00)
 - Short clips from an interview with Blockstream
-- [The end goal of BTC Map is DEATH](https://twitter.com/Blockstream/status/1788131934134272183)
-- [Opensource software, opensource data](https://twitter.com/Blockstream/status/1787746232217358379)
+  - [The end goal of BTC Map is DEATH](https://twitter.com/Blockstream/status/1788131934134272183)
+  - [Opensource software, opensource data](https://twitter.com/Blockstream/status/1787746232217358379)
 
 ## Blogs / Articles 🖋️
 
