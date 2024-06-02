@@ -9,6 +9,7 @@
 - [Stephan Livera - ep. 420](https://stephanlivera.com/episode/420/)
 - [Accept Bitcoin? Put Yourself on the Map with BTCMap! - Nathan Day](https://fountain.fm/episode/13678103262)
 - [Bitcoin Review Podcast BR035 - OpenSats, Nunchuk, BTC Map, BRC-20 Mania + MORE ft. Sjors, Nicholas Gregory & Daniel Prince](https://bitcoin.review/podcast/episode-35/) (BTC Map content starts at 0:30:00)
+- [Bitcoin Berlin 1 Year Anniversary POD-A-THON](https://www.youtube.com/live/KnYTDtEilWE?t=15821s)
 
 ## Presentations 🧍
 
