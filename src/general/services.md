@@ -4,3 +4,4 @@ Local services that accept bitcoin are great, however in order to be mapped they
 
 - [satmap](https://satmap.app/)
 - [BitList](https://www.bitlist.com/)
+- [Spend in Bitcoin](https://spendinbitcoin.com/)
