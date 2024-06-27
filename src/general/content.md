@@ -21,6 +21,7 @@
 - [Nathan Day - BTC Map: SPEDN is the new HODL (BTC Prague 2023)](https://youtu.be/VO3pdA9P5As)
 - [Nathan Day - State of Merchant Adoption (Adopting Bitcoin 2023)](https://www.youtube.com/watch?v=4Qh7HIumiUo&t=60s)
 - [Nathan Day - Adopting Bitcoin Arnhem 2024](https://www.youtube.com/live/-GTw6k1IkC0?t=4255s)
+- [Nathan Day - BTC Prague 2024](https://www.youtube.com/watch?v=8J20WO80aPo)
 
 ## Videos 📹
 
