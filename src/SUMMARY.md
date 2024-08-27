@@ -37,4 +37,10 @@
 
 ---
 
+# Admin API
+
+- [Methods](./admin-api/methods.md)
+
+---
+
 [Contributors](./contributors.md)
