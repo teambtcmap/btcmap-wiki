@@ -27,6 +27,8 @@
 - [Bitcoin Rocks!](https://bitcoin.rocks/)
 - [lipa](https://lipa.swiss/)
 - [Spirit of Satoshi](https://www.spiritofsatoshi.ai/)
+- [Blockstream](https://blockstream.com/local/)
+- [Satlantis](https://www.satlantis.io/)
 
 ### Featured on
 

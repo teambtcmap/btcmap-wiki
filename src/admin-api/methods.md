@@ -49,7 +49,7 @@ curl --data-binary '{"jsonrpc": "2.0", "method": "boostelement", "params": {"tok
 curl --data-binary '{"jsonrpc": "2.0", "method": "addelementcomment", "params": {"token": "xxx", "id": "node:12141608846", "comment": "test comment"}, "id": 1}' https://api.btcmap.org/rpc
 ```
 
-## generateelementissues
+<!-- ## generateelementissues -->
 
 # Areas
 
