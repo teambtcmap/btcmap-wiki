@@ -16,7 +16,9 @@ In order to receive tips and have your tip button appear on BTC Map you need to 
 - Replace `btcmap@zbd.gg` with your own lightning address or LNURL-pay string that you created in Step 1
 - Save your changes by clicking `Update Profile`
 
-That's it! 🥳 You are now ready to receive lightning tips to your wallet for your contributions. It may take up to 24 hours for the tip button to appear on BTC Map once you have added it to your OpenStreetMap profile.
+That's it! 🥳 You are now ready to receive lightning tips to your wallet for your contributions.
+
+You will need to make an edit on OSM after updating your profile for the data to sync with BTC Map and it may take up to 24 hours.
 
 ## Sending tips
 
