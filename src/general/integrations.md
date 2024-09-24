@@ -29,6 +29,7 @@
 - [Spirit of Satoshi](https://www.spiritofsatoshi.ai/)
 - [Blockstream](https://blockstream.com/local/)
 - [Satlantis](https://www.satlantis.io/)
+- [Aqua Wallet](https://aquawallet.io/)
 
 ### Featured on
 
