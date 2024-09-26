@@ -30,6 +30,7 @@
 - [Blockstream](https://blockstream.com/local/)
 - [Satlantis](https://www.satlantis.io/)
 - [Aqua Wallet](https://aquawallet.io/)
+- [Adopting Bitcoin](https://www.adoptingbitcoin.org/)
 
 ### Featured on
 
