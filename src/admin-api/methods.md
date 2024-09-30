@@ -59,7 +59,7 @@ curl --data-binary '{"jsonrpc": "2.0", "method": "addelementcomment", "params": 
 - tags
 
 ```bash
-curl --data-binary '{"jsonrpc": "2.0", "method": "createarea", "params": {"token": "xxx", "tags": {"url_alias": "test-area", "geo_json": {"type":"Point","coordinates":[0,0]}}}, "id": 1}' https://api.btcmap.org/rpc
+curl --data-binary '{"jsonrpc": "2.0", "method": "addarea", "params": {"token": "xxx", "tags": {"url_alias": "test-area", "geo_json": {"type":"Point","coordinates":[0,0]}}}, "id": 1}' https://api.btcmap.org/rpc
 ```
 
 ## getarea
