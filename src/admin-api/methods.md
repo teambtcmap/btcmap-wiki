@@ -8,34 +8,35 @@
 ```bash
 curl --data-binary '{"jsonrpc": "2.0", "method": "search", "params": {"password": "xxx", "query": "query", "id": 1}' https://api.btcmap.org/rpc
 ```
+
 Example response to a `berlin` query param :
 
 ```json
 {
-"id": 1,
-"jsonrpc": "2.0",
-"result":[
-  {
-  "id": 155,
-  "name": "Bitcoin Berlin El Salvador",
-  "type": "area"
-  },
-  {
-  "id": 54,
-  "name": "Berlin 2140",
-  "type": "area"
-  },
-  {
-  "id": 257,
-  "name": "Einundzwanzig Berlin",
-  "type": "area"
-  },
-  {
-  "id": 77,
-  "name": "Bitcoin Berlin El Salvador",
-  "type": "area"
-  }
-]
+  "id": 1,
+  "jsonrpc": "2.0",
+  "result": [
+    {
+      "id": 155,
+      "name": "Bitcoin Berlin El Salvador",
+      "type": "area"
+    },
+    {
+      "id": 54,
+      "name": "Berlin 2140",
+      "type": "area"
+    },
+    {
+      "id": 257,
+      "name": "Einundzwanzig Berlin",
+      "type": "area"
+    },
+    {
+      "id": 77,
+      "name": "Bitcoin Berlin El Salvador",
+      "type": "area"
+    }
+  ]
 }
 ```
 
