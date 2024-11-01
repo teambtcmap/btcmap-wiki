@@ -42,7 +42,7 @@ Example response to a `berlin` query param :
 
 # Elements
 
-## getelement
+## get_element
 
 - token
 - id
@@ -51,27 +51,27 @@ Example response to a `berlin` query param :
 curl --data-binary '{"jsonrpc": "2.0", "method": "get_element", "params": {"password": "xxx", "id": "node:12141608846"}, "id": 1}' https://api.btcmap.org/rpc
 ```
 
-## setelementtag
+## set_element_tag
 
 - token
 - name
 - value
 
 ```bash
-curl --data-binary '{"jsonrpc": "2.0", "method": "set_element-tag", "params": {"password": "xxx", "id": "node:12141608846", "name": "foo", "value": "bar"}, "id": 1}' https://api.btcmap.org/rpc
+curl --data-binary '{"jsonrpc": "2.0", "method": "set_element_tag", "params": {"password": "xxx", "id": "node:12141608846", "name": "foo", "value": "bar"}, "id": 1}' https://api.btcmap.org/rpc
 ```
 
-## removeelementtag
+## remove_element_tag
 
 - token
 - id
 - tag
 
 ```bash
-curl --data-binary '{"jsonrpc": "2.0", "method": "remove-element_tag", "params": {"password": "xxx", "id": "node:12141608846", "tag": "foo"}, "id": 1}' https://api.btcmap.org/rpc
+curl --data-binary '{"jsonrpc": "2.0", "method": "remove_element_tag", "params": {"password": "xxx", "id": "node:12141608846", "tag": "foo"}, "id": 1}' https://api.btcmap.org/rpc
 ```
 
-## boostelement
+## boost_element
 
 - token
 - id
@@ -81,7 +81,7 @@ curl --data-binary '{"jsonrpc": "2.0", "method": "remove-element_tag", "params":
 curl --data-binary '{"jsonrpc": "2.0", "method": "boost_element", "params": {"password": "xxx", "id": "node:12141608846", "days": 7}, "id": 1}' https://api.btcmap.org/rpc
 ```
 
-## addelementcomment
+## add_element_comment
 
 - token
 - id
@@ -95,7 +95,7 @@ curl --data-binary '{"jsonrpc": "2.0", "method": "add_element_comment", "params"
 
 # Areas
 
-## addarea
+## add_area
 
 - token
 - tags
@@ -104,7 +104,7 @@ curl --data-binary '{"jsonrpc": "2.0", "method": "add_element_comment", "params"
 curl --data-binary '{"jsonrpc": "2.0", "method": "add_area", "params": {"password": "xxx", "tags": {"url_alias": "test-area", "geo_json": {"type":"Point","coordinates":[0,0]}}}, "id": 1}' https://api.btcmap.org/rpc
 ```
 
-## getarea
+## get_area
 
 - token
 - id
@@ -113,7 +113,7 @@ curl --data-binary '{"jsonrpc": "2.0", "method": "add_area", "params": {"passwor
 curl --data-binary '{"jsonrpc": "2.0", "method": "get_area", "params": {"password": "xxx", "id": "test-area"}, "id": 1}' https://api.btcmap.org/rpc
 ```
 
-## setareatag
+## set_area_tag
 
 - token
 - id
@@ -124,7 +124,7 @@ curl --data-binary '{"jsonrpc": "2.0", "method": "get_area", "params": {"passwor
 curl --data-binary '{"jsonrpc": "2.0", "method": "set_area_tag", "params": {"password": "xxx", "id": "test-area", "name": "foo", "value": "bar"}, "id": 1}' https://api.btcmap.org/rpc
 ```
 
-## removeareatag
+## remove_area_tag
 
 - token
 - id
@@ -134,7 +134,7 @@ curl --data-binary '{"jsonrpc": "2.0", "method": "set_area_tag", "params": {"pas
 curl --data-binary '{"jsonrpc": "2.0", "method": "remove_area_tag", "params": {"password": "xxx", "id": "test-area", "tag": "foo"}, "id": 1}' https://api.btcmap.org/rpc
 ```
 
-## gettrendingcountries
+## get_trending_countries
 
 - token
 - period_start
@@ -144,7 +144,7 @@ curl --data-binary '{"jsonrpc": "2.0", "method": "remove_area_tag", "params": {"
 curl --data-binary '{"jsonrpc": "2.0", "method": "get_trending_countries", "params": {"password": "xxx", "period_start": "2024-01-01", "period_end": "2024-02-01"}, "id": 1}' https://api.btcmap.org/rpc
 ```
 
-## gettrendingcommunities
+## get_trending_communities
 
 - token
 - period_start
@@ -154,7 +154,7 @@ curl --data-binary '{"jsonrpc": "2.0", "method": "get_trending_countries", "para
 curl --data-binary '{"jsonrpc": "2.0", "method": "get_trending_communities", "params": {"password": "xxx", "period_start": "2024-01-01", "period_end": "2024-02-01"}, "id": 1}' https://api.btcmap.org/rpc
 ```
 
-## removearea
+## remove_area
 
 - token
 - id
