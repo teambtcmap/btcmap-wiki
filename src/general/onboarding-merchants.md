@@ -23,6 +23,7 @@
 There are a number of merchant solutions to help vendors take payment in bitcoin and optionally convert to local fiat:
 
 - [Coinos](https://coinos.io/)
+- [Alby BuzzPay](https://pos.albylabs.com/)
 - [Wallet of Satoshi POS](https://www.walletofsatoshi.com/pos)
 - [Breez POS](https://breez.technology/mobile/) (non-custodial)
 - [Swiss Bitcoin Pay](https://swiss-bitcoin-pay.ch/)
